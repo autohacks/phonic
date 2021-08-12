@@ -142,7 +142,7 @@ $(function() {
 
 $(function(){
   $(".element").typed({
-    strings: ["Welcome to Live Phonic Tracker", "Insert the Phone Number in The Box Below", "And Lets Trace the location!"],
+    strings: ["Welcome to Live Phonic Tracker", "Insert the Phone Number in The Box Below", "And Lets Trace The Location Now!"],
     typeSpeed: 10,
     startDelay: 4,
   });
